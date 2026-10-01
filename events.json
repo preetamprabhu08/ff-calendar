@@ -1,25 +1,75 @@
 {
-  "updated": 1790830245,
+  "updated": 1790830712,
   "events": [
     {
-      "date": "2026-09-30T08:30:00-04:00",
-      "title": "Core PCE Price Index m/m"
+      "date": "2026-09-29T10:00:00-04:00",
+      "title": "CB Consumer Confidence",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-09-29T10:00:00-04:00",
+      "title": "JOLTS Job Openings",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-09-30T08:15:00-04:00",
+      "title": "ADP Non-Farm Employment Change",
+      "impact": "Medium"
     },
     {
       "date": "2026-09-30T08:30:00-04:00",
-      "title": "Final GDP q/q"
+      "title": "Core PCE Price Index m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-09-30T08:30:00-04:00",
+      "title": "Final GDP q/q",
+      "impact": "High"
+    },
+    {
+      "date": "2026-09-30T08:30:00-04:00",
+      "title": "Final GDP Price Index q/q",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-09-30T15:30:00-04:00",
+      "title": "President Trump Speaks",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-09-30T18:00:00-04:00",
+      "title": "FOMC Member Kashkari Speaks",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-01T08:30:00-04:00",
+      "title": "Unemployment Claims",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-01T10:00:00-04:00",
+      "title": "FOMC Member Waller Speaks",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-01T10:00:00-04:00",
+      "title": "ISM Manufacturing PMI",
+      "impact": "Medium"
     },
     {
       "date": "2026-10-02T08:30:00-04:00",
-      "title": "Average Hourly Earnings m/m"
+      "title": "Average Hourly Earnings m/m",
+      "impact": "High"
     },
     {
       "date": "2026-10-02T08:30:00-04:00",
-      "title": "Non-Farm Employment Change"
+      "title": "Non-Farm Employment Change",
+      "impact": "High"
     },
     {
       "date": "2026-10-02T08:30:00-04:00",
-      "title": "Unemployment Rate"
+      "title": "Unemployment Rate",
+      "impact": "High"
     }
   ]
 }
