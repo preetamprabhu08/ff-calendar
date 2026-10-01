@@ -23,7 +23,7 @@ jobs:
 
       - name: Keep USD high-impact events only
         run: |
-          jq -s '{updated: (now|floor), events: [ (.[0][], .[1][]) | select(.country=="USD" and .impact=="High") | {date, title} ]}' this.json next.json > events.json
+                    jq -s '{updated: (now|floor), events: [ (.[0][], .[1][]) | select(.country=="USD" and (.impact=="High" or .impact=="Medium")) | {date, title, impact} ]}' this.json next.json > events.json
 
       - name: Commit
         run: |
