@@ -1,0 +1,25 @@
+{
+  "updated": 1790830245,
+  "events": [
+    {
+      "date": "2026-09-30T08:30:00-04:00",
+      "title": "Core PCE Price Index m/m"
+    },
+    {
+      "date": "2026-09-30T08:30:00-04:00",
+      "title": "Final GDP q/q"
+    },
+    {
+      "date": "2026-10-02T08:30:00-04:00",
+      "title": "Average Hourly Earnings m/m"
+    },
+    {
+      "date": "2026-10-02T08:30:00-04:00",
+      "title": "Non-Farm Employment Change"
+    },
+    {
+      "date": "2026-10-02T08:30:00-04:00",
+      "title": "Unemployment Rate"
+    }
+  ]
+}
