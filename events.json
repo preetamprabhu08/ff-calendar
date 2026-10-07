@@ -1,9 +1,14 @@
 {
-  "updated": 1791340485,
+  "updated": 1791364601,
   "events": [
     {
       "date": "2026-10-05T10:00:00-04:00",
       "title": "ISM Services PMI",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-07T13:00:00-04:00",
+      "title": "President Trump Speaks",
       "impact": "Medium"
     },
     {
