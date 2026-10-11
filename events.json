@@ -1,40 +1,60 @@
 {
-  "updated": 1791682568,
+  "updated": 1791704978,
   "events": [
     {
-      "date": "2026-10-05T10:00:00-04:00",
-      "title": "ISM Services PMI",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-07T13:00:00-04:00",
-      "title": "President Trump Speaks",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-07T14:00:00-04:00",
-      "title": "FOMC Meeting Minutes",
+      "date": "2026-10-14T08:30:00-04:00",
+      "title": "Core CPI m/m",
       "impact": "High"
     },
     {
-      "date": "2026-10-08T04:30:00-04:00",
-      "title": "FOMC Member Waller Speaks",
+      "date": "2026-10-14T08:30:00-04:00",
+      "title": "Core CPI y/y",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-14T08:30:00-04:00",
+      "title": "CPI m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-14T08:30:00-04:00",
+      "title": "CPI y/y",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-15T08:30:00-04:00",
+      "title": "Core PPI m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-15T08:30:00-04:00",
+      "title": "Core Retail Sales m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-15T08:30:00-04:00",
+      "title": "PPI m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-15T08:30:00-04:00",
+      "title": "Retail Sales m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-15T08:30:00-04:00",
+      "title": "Philly Fed Manufacturing Index",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-08T08:30:00-04:00",
+      "date": "2026-10-15T08:30:00-04:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-09T10:00:00-04:00",
-      "title": "Prelim UoM Consumer Sentiment",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-09T10:00:00-04:00",
-      "title": "Prelim UoM Inflation Expectations",
-      "impact": "Medium"
+      "date": "2026-10-15T23:30:00-04:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High"
     }
   ]
 }
