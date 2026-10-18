@@ -1,60 +1,30 @@
 {
-  "updated": 1792297872,
+  "updated": 1792314337,
   "events": [
     {
-      "date": "2026-10-14T08:30:00-04:00",
-      "title": "Core CPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-14T08:30:00-04:00",
-      "title": "Core CPI y/y",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-14T08:30:00-04:00",
-      "title": "CPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-14T08:30:00-04:00",
-      "title": "CPI y/y",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
-      "title": "Core PPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
-      "title": "Core Retail Sales m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
-      "title": "PPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
-      "title": "Retail Sales m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
-      "title": "Philly Fed Manufacturing Index",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-15T08:30:00-04:00",
+      "date": "2026-10-22T08:30:00-04:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-15T23:30:00-04:00",
-      "title": "Fed Chairman Warsh Speaks",
-      "impact": "High"
+      "date": "2026-10-23T09:45:00-04:00",
+      "title": "Flash Manufacturing PMI",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-23T09:45:00-04:00",
+      "title": "Flash Services PMI",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-23T10:00:00-04:00",
+      "title": "Revised UoM Consumer Sentiment",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-23T10:00:00-04:00",
+      "title": "Revised UoM Inflation Expectations",
+      "impact": "Medium"
     }
   ]
 }
