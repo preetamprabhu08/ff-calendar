@@ -1,29 +1,49 @@
 {
-  "updated": 1792901855,
+  "updated": 1792919814,
   "events": [
     {
-      "date": "2026-10-22T08:30:00-04:00",
+      "date": "2026-10-27T10:00:00-04:00",
+      "title": "CB Consumer Confidence",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-28T14:00:00-04:00",
+      "title": "Federal Funds Rate",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-28T14:00:00-04:00",
+      "title": "FOMC Statement",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-28T14:30:00-04:00",
+      "title": "FOMC Press Conference",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-29T08:30:00-04:00",
+      "title": "Advance GDP q/q",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-29T08:30:00-04:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-10-29T08:30:00-04:00",
+      "title": "Advance GDP Price Index q/q",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-10-29T08:30:00-04:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-23T09:45:00-04:00",
-      "title": "Flash Manufacturing PMI",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-23T09:45:00-04:00",
-      "title": "Flash Services PMI",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-23T10:00:00-04:00",
-      "title": "Revised UoM Consumer Sentiment",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-10-23T10:00:00-04:00",
-      "title": "Revised UoM Inflation Expectations",
+      "date": "2026-10-30T08:30:00-04:00",
+      "title": "Employment Cost Index q/q",
       "impact": "Medium"
     }
   ]
