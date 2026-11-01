@@ -1,49 +1,54 @@
 {
-  "updated": 1793496177,
+  "updated": 1793519416,
   "events": [
     {
-      "date": "2026-10-27T10:00:00-04:00",
-      "title": "CB Consumer Confidence",
+      "date": "2026-11-02T10:00:00-05:00",
+      "title": "ISM Manufacturing PMI",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-28T14:00:00-04:00",
-      "title": "Federal Funds Rate",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-28T14:00:00-04:00",
-      "title": "FOMC Statement",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-28T14:30:00-04:00",
-      "title": "FOMC Press Conference",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-29T08:30:00-04:00",
-      "title": "Advance GDP q/q",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-29T08:30:00-04:00",
-      "title": "Core PCE Price Index m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-10-29T08:30:00-04:00",
-      "title": "Advance GDP Price Index q/q",
+      "date": "2026-11-03T10:00:00-05:00",
+      "title": "JOLTS Job Openings",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-29T08:30:00-04:00",
+      "date": "2026-11-03T10:16:00-05:00",
+      "title": "Congressional Elections",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-04T10:00:00-05:00",
+      "title": "ISM Services PMI",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-05T08:30:00-05:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-10-30T08:30:00-04:00",
-      "title": "Employment Cost Index q/q",
+      "date": "2026-11-06T08:30:00-05:00",
+      "title": "Average Hourly Earnings m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-06T08:30:00-05:00",
+      "title": "Non-Farm Employment Change",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-06T08:30:00-05:00",
+      "title": "Unemployment Rate",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-06T10:00:00-05:00",
+      "title": "Prelim UoM Consumer Sentiment",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-06T10:00:00-05:00",
+      "title": "Prelim UoM Inflation Expectations",
       "impact": "Medium"
     }
   ]
