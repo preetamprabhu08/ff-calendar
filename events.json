@@ -1,55 +1,35 @@
 {
-  "updated": 1793848029,
+  "updated": 1794369155,
   "events": [
     {
-      "date": "2026-11-02T10:00:00-05:00",
-      "title": "ISM Manufacturing PMI",
+      "date": "2026-11-10T04:00:00-05:00",
+      "title": "FOMC Member Waller Speaks",
       "impact": "Medium"
     },
     {
-      "date": "2026-11-03T10:00:00-05:00",
-      "title": "JOLTS Job Openings",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-11-03T10:16:00-05:00",
-      "title": "Congressional Elections",
+      "date": "2026-11-10T08:30:00-05:00",
+      "title": "Core CPI m/m",
       "impact": "High"
     },
     {
-      "date": "2026-11-04T10:00:00-05:00",
-      "title": "ISM Services PMI",
-      "impact": "Medium"
+      "date": "2026-11-10T08:30:00-05:00",
+      "title": "CPI m/m",
+      "impact": "High"
     },
     {
-      "date": "2026-11-05T08:30:00-05:00",
+      "date": "2026-11-12T08:30:00-05:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-11-06T08:30:00-05:00",
-      "title": "Average Hourly Earnings m/m",
+      "date": "2026-11-13T08:30:00-05:00",
+      "title": "Core PPI m/m",
       "impact": "High"
     },
     {
-      "date": "2026-11-06T08:30:00-05:00",
-      "title": "Non-Farm Employment Change",
+      "date": "2026-11-13T08:30:00-05:00",
+      "title": "PPI m/m",
       "impact": "High"
-    },
-    {
-      "date": "2026-11-06T08:30:00-05:00",
-      "title": "Unemployment Rate",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-06T10:00:00-05:00",
-      "title": "Prelim UoM Consumer Sentiment",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-11-06T10:00:00-05:00",
-      "title": "Prelim UoM Inflation Expectations",
-      "impact": "Medium"
     }
   ]
 }
