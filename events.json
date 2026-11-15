@@ -1,35 +1,50 @@
 {
-  "updated": 1794709858,
+  "updated": 1794736668,
   "events": [
     {
-      "date": "2026-11-10T04:00:00-05:00",
-      "title": "FOMC Member Waller Speaks",
+      "date": "2026-11-16T12:00:00-05:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-17T08:30:00-05:00",
+      "title": "Core Retail Sales m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-17T08:30:00-05:00",
+      "title": "Retail Sales m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-18T14:00:00-05:00",
+      "title": "FOMC Meeting Minutes",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-19T08:30:00-05:00",
+      "title": "Philly Fed Manufacturing Index",
       "impact": "Medium"
     },
     {
-      "date": "2026-11-10T08:30:00-05:00",
-      "title": "Core CPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-10T08:30:00-05:00",
-      "title": "CPI m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-12T08:30:00-05:00",
+      "date": "2026-11-19T08:30:00-05:00",
       "title": "Unemployment Claims",
       "impact": "Medium"
     },
     {
-      "date": "2026-11-13T08:30:00-05:00",
-      "title": "Core PPI m/m",
-      "impact": "High"
+      "date": "2026-11-20T08:25:00-05:00",
+      "title": "FOMC Member Waller Speaks",
+      "impact": "Medium"
     },
     {
-      "date": "2026-11-13T08:30:00-05:00",
-      "title": "PPI m/m",
-      "impact": "High"
+      "date": "2026-11-20T10:00:00-05:00",
+      "title": "Revised UoM Consumer Sentiment",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-20T10:00:00-05:00",
+      "title": "Revised UoM Inflation Expectations",
+      "impact": "Medium"
     }
   ]
 }
