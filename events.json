@@ -1,49 +1,39 @@
 {
-  "updated": 1795306483,
+  "updated": 1795331220,
   "events": [
     {
-      "date": "2026-11-16T12:00:00-05:00",
-      "title": "Fed Chairman Warsh Speaks",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-17T08:30:00-05:00",
-      "title": "Core Retail Sales m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-17T08:30:00-05:00",
-      "title": "Retail Sales m/m",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-18T14:00:00-05:00",
-      "title": "FOMC Meeting Minutes",
-      "impact": "High"
-    },
-    {
-      "date": "2026-11-19T08:30:00-05:00",
-      "title": "Philly Fed Manufacturing Index",
+      "date": "2026-11-23T09:45:00-05:00",
+      "title": "Flash Manufacturing PMI",
       "impact": "Medium"
     },
     {
-      "date": "2026-11-19T08:30:00-05:00",
+      "date": "2026-11-23T09:45:00-05:00",
+      "title": "Flash Services PMI",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-24T10:00:00-05:00",
+      "title": "CB Consumer Confidence",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-25T08:30:00-05:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-25T08:30:00-05:00",
+      "title": "Prelim GDP q/q",
+      "impact": "High"
+    },
+    {
+      "date": "2026-11-25T08:30:00-05:00",
+      "title": "Prelim GDP Price Index q/q",
+      "impact": "Medium"
+    },
+    {
+      "date": "2026-11-25T08:30:00-05:00",
       "title": "Unemployment Claims",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-11-20T10:00:00-05:00",
-      "title": "Revised UoM Consumer Sentiment",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-11-20T10:00:00-05:00",
-      "title": "Revised UoM Inflation Expectations",
-      "impact": "Medium"
-    },
-    {
-      "date": "2026-11-20T12:00:00-05:00",
-      "title": "President Trump Speaks",
       "impact": "Medium"
     }
   ]
